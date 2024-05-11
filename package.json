@@ -1,0 +1,23 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "First project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liudmyla212/aqa-advanced.git"
+  },
+  "author": "Hillel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liudmyla212/aqa-advanced/issues"
+  },
+  "homepage": "https://github.com/Liudmyla212/aqa-advanced#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "type": "module"
+}
